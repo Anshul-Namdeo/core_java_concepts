@@ -1,0 +1,3 @@
+ class SaktiMan extends SuperHuman{
+
+}
