@@ -13,6 +13,11 @@ class D {
         x.pro();
     }
 }
+
+// D class ka object x sirf D class ke members access kar sakta hai.
+// Agar W class ke members ko access karna hai, to W ka object create karna hoga.
+
+
 // D.java:12: error: cannot find symbol
 //         System.out.println(x.y);
 //                             ^
@@ -24,3 +29,4 @@ class D {
 //   symbol:   method pro()
 //   location: variable x of type D
 // 2 errors
+

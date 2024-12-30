@@ -1,0 +1,17 @@
+create database schooldb;
+
+use schooldb
+
+create table students
+(
+    student_id int auto_increment primary key,
+    name char(45) not null,
+    college char(65) not null,
+    degree char(10) not null,
+    semester int not null,
+    branch char(5) not null
+);
+
+desc students;
+
+select * from students;

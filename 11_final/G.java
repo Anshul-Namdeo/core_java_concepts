@@ -7,3 +7,5 @@ class G {
         T x;
     }
 }
+
+// final class ka reference variable declare karna aur object create karna dono allowed hain.
