@@ -1,2 +1,0 @@
- count = x[i];
-            //   System.
