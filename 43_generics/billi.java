@@ -1,3 +1,0 @@
-class billi extends Cat{
-    
-}

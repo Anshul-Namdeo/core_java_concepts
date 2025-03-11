@@ -1,4 +1,0 @@
-class Human extends LivingBeing 
-{
-    
-}
